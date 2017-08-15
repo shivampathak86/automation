@@ -51,6 +51,8 @@ namespace eRegistration_Seg1Prospect
         [TestMethod]
         public void eReg_Segmented_Wyoming()
         {
+            // all these test can be improved using Page object pattern.
+
             BrowserWindow Browind = BrowserWindow.Locate("Abacus Logon");
             eRegLogin.Login2eRegistration();
             WelcomePane.welcome_SaveNContinue();
