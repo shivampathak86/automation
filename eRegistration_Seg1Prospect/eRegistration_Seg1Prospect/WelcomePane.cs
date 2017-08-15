@@ -26,7 +26,10 @@ namespace eRegistration_Seg1Prospect
             //check checkbox
             HtmlCheckBox chkBox = new HtmlCheckBox(Browind);
             chkBox.SearchProperties[HtmlCheckBox.PropertyNames.Id] = "privacy_ack";
+           
+            {
 
+            }
             //Save And Continue button
             HtmlControl SaveCont = new HtmlControl(Browind);
             SaveCont.SearchProperties[HtmlButton.PropertyNames.Id] = "ForwardButton_button";

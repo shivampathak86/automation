@@ -8,3 +8,15 @@ C:\Users\SHYM005\documents\visual studio 2013\Projects\eRegistration_Seg1Prospec
 C:\Users\SHYM005\documents\visual studio 2013\Projects\eRegistration_Seg1Prospect\eRegistration_Seg1Prospect\bin\Debug\Excel.pdb
 C:\Users\SHYM005\Documents\Visual Studio 2013\Projects\eRegistration_Seg1Prospect\eRegistration_Seg1Prospect\bin\Debug\OrderedTest1.orderedtest
 C:\Users\SHYM005\Documents\Visual Studio 2013\Projects\eRegistration_Seg1Prospect\eRegistration_Seg1Prospect\bin\Debug\eRegistration_Seg1Prospect.dll.config
+C:\Users\patha\Documents\WorkSpace\GitHub\CodedUI\eRegistration_Seg1Prospect\eRegistration_Seg1Prospect\bin\Debug\OrderedTest1.orderedtest
+C:\Users\patha\Documents\WorkSpace\GitHub\CodedUI\eRegistration_Seg1Prospect\eRegistration_Seg1Prospect\bin\Debug\eRegistration_Seg1Prospect.dll.config
+C:\Users\patha\Documents\WorkSpace\GitHub\CodedUI\eRegistration_Seg1Prospect\eRegistration_Seg1Prospect\bin\Debug\eRegistration_Seg1Prospect.dll
+C:\Users\patha\Documents\WorkSpace\GitHub\CodedUI\eRegistration_Seg1Prospect\eRegistration_Seg1Prospect\bin\Debug\eRegistration_Seg1Prospect.pdb
+C:\Users\patha\Documents\WorkSpace\GitHub\CodedUI\eRegistration_Seg1Prospect\eRegistration_Seg1Prospect\bin\Debug\Excel.dll
+C:\Users\patha\Documents\WorkSpace\GitHub\CodedUI\eRegistration_Seg1Prospect\eRegistration_Seg1Prospect\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\patha\Documents\WorkSpace\GitHub\CodedUI\eRegistration_Seg1Prospect\eRegistration_Seg1Prospect\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\patha\Documents\WorkSpace\GitHub\CodedUI\eRegistration_Seg1Prospect\eRegistration_Seg1Prospect\bin\Debug\Excel.pdb
+C:\Users\patha\Documents\WorkSpace\GitHub\CodedUI\eRegistration_Seg1Prospect\eRegistration_Seg1Prospect\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\patha\Documents\WorkSpace\GitHub\CodedUI\eRegistration_Seg1Prospect\eRegistration_Seg1Prospect\obj\Debug\eRegistration_Seg1Prospect.csprojResolveAssemblyReference.cache
+C:\Users\patha\Documents\WorkSpace\GitHub\CodedUI\eRegistration_Seg1Prospect\eRegistration_Seg1Prospect\obj\Debug\eRegistration_Seg1Prospect.dll
+C:\Users\patha\Documents\WorkSpace\GitHub\CodedUI\eRegistration_Seg1Prospect\eRegistration_Seg1Prospect\obj\Debug\eRegistration_Seg1Prospect.pdb
